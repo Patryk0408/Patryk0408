@@ -4,7 +4,7 @@
 
 ### <div align="center"> Let's talk! </div>
 
-<div align="center"> I'm always open to new projects whenever I have the time. If you have a website, dashboard or mobile app in mind and need some help to make your ideas come to life, feel free to conatct me 🤞</div>
+<div align="center"> I'm always open to new projects whenever I have the time. If you have a website or dashboard in mind and need some help to make your ideas come to life, feel free to conatct me 🤞</div>
 
 ---
 
