@@ -14,7 +14,7 @@ Mail: [patryk.krawczyk.it@gmail.com](mailto:patryk.krawczyk.it@gmail.com) <br>
 Tel: 782 352 976
 
 <div align="center">
-  <a href="https://app.daily.dev/patryk2104"><img src="https://api.daily.dev/devcards/c3ef23cd84df4ba3b33afaae43955212.png?r=iux" width="400" alt="Patryk Krawczyk's Dev Card"/></a>
+<!--   <a href="https://app.daily.dev/patryk2104"><img src="https://api.daily.dev/devcards/c3ef23cd84df4ba3b33afaae43955212.png?r=iux" width="400" alt="Patryk Krawczyk's Dev Card"/></a> -->
   <a href="https://app.daily.dev/patryk2104"><img src="https://api.daily.dev/devcards/v2/AePi2FLznZmgUm5F9KvrP.png?r=d7z" width="356" alt="Patryk Krawczyk's Dev Card"/></a>
 </div>
 
