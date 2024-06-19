@@ -1,7 +1,8 @@
 ### <div align="center">Hi there! My name is Patryk Krawczyk 👋😁</div>
 
 <div align="center">I'm a Web Developer with a strong proficiency in both frontend and backend development. I specialize in crafting user-friendly web applications using a variety of technologies. My expertise extends to search engine optimization (SEO), enabling me to optimize web content for improved visibility and ranking. Additionally, I possess in-depth knowledge of database management, ensuring that data is efficiently organized and retrieved to support seamless application functionality. My passion for staying at the forefront of web development trends and technologies allows me to create holistic and efficient digital solutions. </div>
-
+<br>
+<br>
 <div align="center">
 <!--   <a href="https://app.daily.dev/patryk2104"><img src="https://api.daily.dev/devcards/c3ef23cd84df4ba3b33afaae43955212.png?r=iux" width="400" alt="Patryk Krawczyk's Dev Card"/></a> -->
   <a href="https://app.daily.dev/patryk0408"><img src="https://api.daily.dev/devcards/v2/AePi2FLznZmgUm5F9KvrP.png?type=default&r=p5i" width="356" alt="Patryk Krawczyk's Dev Card"/></a>
